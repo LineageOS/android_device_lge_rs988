@@ -18,7 +18,7 @@
 $(call inherit-product, $(SRC_TARGET_DIR)/product/languages_full.mk)
 
 # Get non-open-source specific aspects
-$(call inherit-product-if-exists, vendor/lge/h830/h830-vendor.mk)
+$(call inherit-product-if-exists, vendor/lge/rs988/rs988-vendor.mk)
 
 # common g5
 $(call inherit-product, device/lge/g5-common/g5.mk)
