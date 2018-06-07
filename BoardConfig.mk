@@ -25,5 +25,8 @@ TARGET_OTA_ASSERT_DEVICE := g5,h1,rs988
 # Kernel
 TARGET_KERNEL_CONFIG := lineageos_rs988_defconfig
 
+# Partitions
+BOARD_USERDATAIMAGE_PARTITION_SIZE := 25174212608
+
 # inherit from the proprietary version
 -include vendor/lge/rs988/BoardConfigVendor.mk
