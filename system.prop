@@ -1,7 +1,7 @@
 #
-# System Properties for T-Mobile LG G5
+# System Properties for US Unlocked LG G5
 #
 
 # Radio
-ro.telephony.default_network=22
+ro.telephony.default_network=10
 telephony.lteOnGsmDevice=1
