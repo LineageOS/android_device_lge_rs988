@@ -16,6 +16,24 @@
       "revId": "8fc04e6d769632d9eca5fe68bfb80ed3957d701a",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "073d9477_261fa248",
+        "filename": "system.prop",
+        "patchSetId": 5
+      },
+      "lineNbr": 6,
+      "author": {
+        "id": 19507
+      },
+      "writtenOn": "2018-07-03T20:15:27Z",
+      "side": 1,
+      "message": "\u003e I added the values myself for each mode, from bottom to top starting with 0. Compared to other lists on the internet, these integer values seem to be accurate to the modes.\n\nCorrection - these values are completely accurate. Look at packages/services/Telephony/res/values.xml.",
+      "parentUuid": "bec8cc28_4d622971",
+      "revId": "8fc04e6d769632d9eca5fe68bfb80ed3957d701a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
     }
   ]
 }
