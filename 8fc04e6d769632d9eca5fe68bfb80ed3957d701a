@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "bec8cc28_4d622971",
+        "filename": "system.prop",
+        "patchSetId": 5
+      },
+      "lineNbr": 6,
+      "author": {
+        "id": 19507
+      },
+      "writtenOn": "2018-07-03T20:08:12Z",
+      "side": 1,
+      "message": "This value may not need to be changed. Refer to the preferred network type menu:\n\n\u003e (22) LTE/TD-SCDMA/CDMA/EVDO/GSM/WCDMA\n\u003e (21) TD-SCDMA/CDMA/EVDO/GSM/WCDMA \n\u003e (20) LTE/TD-SCDMA/GSM/WCDMA\n\u003e (19) LTE/TD-SCDMA/WCDMA\n\u003e (18) TD-SCDMA/GSM/WCDMA\n\u003e (17) LTE/TD-SCDMA/GSM\n\u003e (16) TD-SCDMA/GSM\n\u003e (15) LTE/TD-SCDMA\n\u003e (14) TD-SCDMA/WCDMA\n\u003e (13) TD-SCDMA only\n\u003e (12) LTE / WCDMA\n\u003e (11) LTE\n\u003e (10) Global (**Possibly LTE/GSM/CDMA auto**)\n\u003e (9)  GSM/WCDMA/LTE\n\u003e (8)  CDMA + LTE/EvDo\n\u003e (7)  CDMA/EvDo/GSM/WCDMA\n\u003e (6)  EvDo only\n\u003e (5)  CDMA w/o EvDo\n\u003e (4)  CDMA/EvDo auto\n\u003e (3)  GSM/WCDMA auto\n\u003e (2)  WCDMA only\n\u003e (1)  GSM only\n\u003e (0)  GSM/WCDMA preferred\n\nI added the values myself for each mode, from bottom to top starting with 0. Compared to other lists on the internet, these integer values seem to be accurate to the modes.\n\nSeeing the network types available with 10 and 22, it would seem that the latter is better, no?",
+      "revId": "8fc04e6d769632d9eca5fe68bfb80ed3957d701a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    }
+  ]
+}
