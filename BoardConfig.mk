@@ -21,6 +21,7 @@ DEVICE_PATH := device/lge/rs988
 -include device/lge/g5-common/BoardConfigCommon.mk
 
 TARGET_OTA_ASSERT_DEVICE := g5,h1,rs988
+TARGET_SYSTEM_PARTITION := /dev/sda17
 
 # Kernel
 TARGET_KERNEL_CONFIG := lineageos_rs988_defconfig
