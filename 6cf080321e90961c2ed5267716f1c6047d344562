@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "4f67b08b_9b1520ea",
+        "filename": "lineage_rs988.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 35,
+      "author": {
+        "id": 19507
+      },
+      "writtenOn": "2018-09-30T04:51:31Z",
+      "side": 1,
+      "message": "Necessary? I don\u0027t see TARGET_DEVICE in other variants\u0027 trees.",
+      "revId": "6cf080321e90961c2ed5267716f1c6047d344562",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    }
+  ]
+}
