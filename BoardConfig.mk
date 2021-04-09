@@ -29,4 +29,4 @@ TARGET_KERNEL_CONFIG := lineageos_rs988_defconfig
 BOARD_USERDATAIMAGE_PARTITION_SIZE := 25174212608
 
 # inherit from the proprietary version
--include vendor/lge/rs988/BoardConfigVendor.mk
+include vendor/lge/rs988/BoardConfigVendor.mk
