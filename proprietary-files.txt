@@ -1,5 +1,5 @@
+###  are from from h1_lra_us-user 7.0 NRD90U 170621739ac23 release-keys
 ### All blobs from this list, unless pinned and noted as otherwise,
-##  are from from h1_lra_us-user 7.0 NRD90U 170621739ac23 release-keys
 
 # Bluetooth
 vendor/firmware/BCM4345C0_003.001.025.0104.0142_Alice_ORC.hcd:vendor/firmware/BCM43xx.hcd
