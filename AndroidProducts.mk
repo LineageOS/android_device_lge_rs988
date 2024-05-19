@@ -15,7 +15,3 @@
 
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/lineage_rs988.mk
-
-COMMON_LUNCH_CHOICES := \
-    lineage_rs988-userdebug \
-    lineage_rs988-eng
