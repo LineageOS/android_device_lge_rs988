@@ -34,5 +34,4 @@ PRODUCT_MANUFACTURER := LGE
 PRODUCT_BUILD_PROP_OVERRIDES += \
     BuildDesc="h1_lra_us-user 7.0 NRD90U 170621739ac23 release-keys" \
     BuildFingerprint="lge/h1_lra_us/h1:7.0/NRD90U/170621739ac23:user/release-keys" \
-    DeviceName="h1_lra_us" \
     DeviceProduct="h1"
